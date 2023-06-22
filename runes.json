@@ -1,0 +1,418 @@
+[
+    {
+        "rune": "Age",
+        "stat": "Agility",
+
+        "poids_unitaire": 1,
+        "poids_normal": 1,
+        "prix": 96
+    },
+    {
+        "rune": "Cha",
+        "stat": "Chance",
+
+        "poids_unitaire": 1,
+        "poids_normal": 1,
+        "prix": "23"
+    },
+    {
+        "rune": "Chasse",
+        "stat": "Hunting Weapon",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "0"
+    },
+    {
+        "rune": "Cri",
+        "stat": "Critical",
+
+        "poids_unitaire": 10,
+        "poids_normal": 10,
+        "prix": "1500"
+    },
+    {
+        "rune": "Do",
+        "stat": "Damage",
+
+        "poids_unitaire": 20,
+        "poids_normal": 20,
+        "prix": "1363"
+    },
+    {
+        "rune": "Do Air",
+        "stat": "Air Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "797"
+    },
+    {
+        "rune": "Do Cri",
+        "stat": "Critical Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "1033"
+    },
+    {
+        "rune": "Do Eau",
+        "stat": "Water Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "748"
+    },
+    {
+        "rune": "Do Feu",
+        "stat": "Fire Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "927"
+    },
+    {
+        "rune": "Do Neutre",
+        "stat": "Neutral Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "689"
+    },
+    {
+        "rune": "Do Per Ar",
+        "stat": "% Weapon Damage",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "399"
+    },
+    {
+        "rune": "Do Per Di",
+        "stat": "% Ranged Damage",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "11142"
+    },
+    {
+        "rune": "Do Per Mé",
+        "stat": "% Melee Damage",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "1629"
+    },
+    {
+        "rune": "Do Per So",
+        "stat": "% Spell Damage",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "13627"
+    },
+    {
+        "rune": "Do Pi",
+        "stat": "Trap Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "297"
+    },
+    {
+        "rune": "Do Pou",
+        "stat": "Pushback Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "139"
+    },
+    {
+        "rune": "Do Ren",
+        "stat": "Reflect",
+        
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "204"
+    },
+    {
+        "rune": "Do Terre",
+        "stat": "Earth Damage",
+
+        "poids_unitaire": 5,
+        "poids_normal": 5,
+        "prix": "649"
+    },
+    {
+        "rune": "Fo",
+        "stat": "Strength",
+
+        "poids_unitaire": 1,
+        "poids_normal": 1,
+        "prix": "29"
+    },
+    {
+        "rune": "Fui",
+        "stat": "Dodge",
+
+        "poids_unitaire": 4,
+        "poids_normal": 4,
+        "prix": "451"
+    },
+    {
+        "rune": "Ga Pa",
+        "stat": "AP",
+
+        "poids_unitaire": 100,
+        "poids_normal": 100,
+        "prix": "33472"
+    },
+    {
+        "rune": "Ga Pme",
+        "stat": "MP",
+
+        "poids_unitaire": 90,
+        "poids_normal": 90,
+        "prix": "18943"
+    },
+    {
+        "rune": "Ine",
+        "stat": "Intelligence",
+
+        "poids_unitaire": 1,
+        "poids_normal": 1,
+        "prix": "37"
+    },
+    {
+        "rune": "Ini",
+        "stat": "Initiative",
+
+        "poids_unitaire": 0.1,
+        "poids_normal": 1,
+        "prix": "46"
+    },
+    {
+        "rune": "Invo",
+        "stat": "Summons",
+
+        "poids_unitaire": 30,
+        "poids_normal": 30,
+        "prix": "3788"
+    },
+    {
+        "rune": "Per Pi",
+        "stat": "Power (traps)",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "95"
+    },
+    {
+        "rune": "Po",
+        "stat": "Range",
+
+        "poids_unitaire": 51,
+        "poids_normal": 51,
+        "prix": "7652"
+    },
+    {
+        "rune": "Pod",
+        "stat": "pods",
+
+        "poids_unitaire": 0.25,
+        "poids_normal": 2.5,
+        "prix": "291"
+    },
+    {
+        "rune": "Prospe",
+        "stat": "Prospecting",
+
+        "poids_unitaire": 3,
+        "poids_normal": 3,
+        "prix": "167"
+    },
+    {
+        "rune": "Pui",
+        "stat": "Power",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "237"
+    },
+    {
+        "rune": "Ré Air",
+        "stat": "Air Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "374"
+    },
+    {
+        "rune": "Ré Cri",
+        "stat": "Critical Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "196"
+    },
+    {
+        "rune": "Ré Eau",
+        "stat": "Water Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "152"
+    },
+    {
+        "rune": "Ré Feu",
+        "stat": "Fire Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "65"
+    },
+    {
+        "rune": "Ré Neutre",
+        "stat": "Neutral Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "87"
+    },
+    {
+        "rune": "Ré Pa",
+        "stat": "AP Parry",
+
+        "poids_unitaire": 7,
+        "poids_normal": 7,
+        "prix": "411"
+    },
+    {
+        "rune": "Ré Per Air",
+        "stat": "% Air Resistance",
+
+        "poids_unitaire": 6,
+        "poids_normal": 6,
+        "prix": "895"
+    },
+    {
+        "rune": "Ré Per Di",
+        "stat": "% Ranged Resistance",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "392"
+    },
+    {
+        "rune": "Ré Per Eau",
+        "stat": "% Water Resistance",
+
+        "poids_unitaire": 6,
+        "poids_normal": 6,
+        "prix": "974"
+    },
+    {
+        "rune": "Ré Per Feu",
+        "stat": "% Fire Resistance",
+
+        "poids_unitaire": 6,
+        "poids_normal": 6,
+        "prix": "947"
+    },
+    {
+        "rune": "Ré Per Mé",
+        "stat": "% Melee Resistance",
+
+        "poids_unitaire": 15,
+        "poids_normal": 15,
+        "prix": "585"
+    },
+    {
+        "rune": "Ré Per Neutre",
+        "stat": "% Neutral Resistance",
+
+        "poids_unitaire": 6,
+        "poids_normal": 6,
+        "prix": "963"
+    },
+    {
+        "rune": "Ré Per Terre",
+        "stat": "% Earth Resistance",
+
+        "poids_unitaire": 6,
+        "poids_normal": 6,
+        "prix": "899"
+    },
+    {
+        "rune": "Ré Pme",
+        "stat": "MP Parry",
+
+        "poids_unitaire": 7,
+        "poids_normal": 7,
+        "prix": "846"
+    },
+    {
+        "rune": "Ré Pou",
+        "stat": "Pushback Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "83"
+    },
+    {
+        "rune": "Ré Terre",
+        "stat": "Earth Resistance",
+
+        "poids_unitaire": 2,
+        "poids_normal": 2,
+        "prix": "268"
+    },
+    {
+        "rune": "Ret Pa",
+        "stat": "AP Reduction",
+
+        "poids_unitaire": 7,
+        "poids_normal": 7,
+        "prix": "135"
+    },
+    {
+        "rune": "Ret Pme",
+        "stat": "MP Reduction",
+
+        "poids_unitaire": 7,
+        "poids_normal": 7,
+        "prix": "760"
+    },
+    {
+        "rune": "Sa",
+        "stat": "Wisdom",
+
+        "poids_unitaire": 3,
+        "poids_normal": 3,
+        "prix": "105"
+    },
+    {
+        "rune": "So",
+        "stat": "Heals",
+
+        "poids_unitaire": 10,
+        "poids_normal": 10,
+        "prix": "1194"
+    },
+    {
+        "rune": "Tac",
+        "stat": "Lock",
+
+        "poids_unitaire": 4,
+        "poids_normal": 4,
+        "prix": "385"
+    },
+    {
+        "rune": "Vi",
+        "stat": "Vitality",
+
+        "poids_unitaire": 0.2,
+        "poids_normal": 1,
+        "prix": "140"
+    }
+]
