@@ -29,7 +29,7 @@
 
         "poids_unitaire": 10,
         "poids_normal": 10,
-        "prix": "1500"
+        "prix": "1545"
     },
     {
         "rune": "Do",
@@ -157,7 +157,7 @@
 
         "poids_unitaire": 4,
         "poids_normal": 4,
-        "prix": "451"
+        "prix": "366"
     },
     {
         "rune": "Ga Pa",
@@ -181,7 +181,7 @@
 
         "poids_unitaire": 1,
         "poids_normal": 1,
-        "prix": "37"
+        "prix": "59"
     },
     {
         "rune": "Ini",
@@ -261,7 +261,7 @@
 
         "poids_unitaire": 2,
         "poids_normal": 2,
-        "prix": "152"
+        "prix": "123"
     },
     {
         "rune": "Ré Feu",
@@ -309,7 +309,7 @@
 
         "poids_unitaire": 6,
         "poids_normal": 6,
-        "prix": "974"
+        "prix": "894"
     },
     {
         "rune": "Ré Per Feu",
@@ -349,7 +349,7 @@
 
         "poids_unitaire": 7,
         "poids_normal": 7,
-        "prix": "846"
+        "prix": "831"
     },
     {
         "rune": "Ré Pou",
